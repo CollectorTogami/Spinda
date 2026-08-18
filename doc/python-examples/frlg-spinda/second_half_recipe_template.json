@@ -1,0 +1,30 @@
+{
+  "rom_path": "lg.gba",
+  "workspace_root": ".\\workspace",
+  "lane_id": "0x1234",
+  "lane_save_path": ".\\workspace\\saves\\0x1234.sav",
+  "flush_every": 256,
+  "notes": "Replace these placeholder routes with real GPU-generated schedules and PRNG checkpoints before running this in the emulator. Conservative planning anchor: expect about 700 frames from seed generation to receiving the egg, but treat that as a Four Island noise buffer rather than an exact correctness check.",
+  "create_work_state_route": [
+    {
+      "label": "Placeholder route from the saved lane position to the canonical pre-pickup state",
+      "keys": [],
+      "frames": 60
+    }
+  ],
+  "targets": [
+    {
+      "upper_half": "0x0000",
+      "expected_rng_before_route": "0x12345678",
+      "route": [
+        {
+          "label": "Placeholder target route",
+          "keys": [
+            "A"
+          ],
+          "frames": 1
+        }
+      ]
+    }
+  ]
+}

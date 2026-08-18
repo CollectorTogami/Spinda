@@ -1,0 +1,214 @@
+value,name,rs,e,frlg
+0,"Littleroot Town",1,1,0
+1,"Oldale Town",1,1,0
+2,"Dewford Town",1,1,0
+3,"Lavaridge Town",1,1,0
+4,"Fallarbor Town",1,1,0
+5,"Verdanturf Town",1,1,0
+6,"Pacifidlog Town",1,1,0
+7,"Petalburg City",1,1,0
+8,"Slateport City",1,1,0
+9,"Mauville City",1,1,0
+10,"Rustboro City",1,1,0
+11,"Fortree City",1,1,0
+12,"Lilycove City",1,1,0
+13,"Mossdeep City",1,1,0
+14,"Sootopolis City",1,1,0
+15,"Ever Grande City",1,1,0
+16,"Route 101",1,1,0
+17,"Route 102",1,1,0
+18,"Route 103",1,1,0
+19,"Route 104",1,1,0
+20,"Route 105",1,1,0
+21,"Route 106",1,1,0
+22,"Route 107",1,1,0
+23,"Route 108",1,1,0
+24,"Route 109",1,1,0
+25,"Route 110",1,1,0
+26,"Route 111",1,1,0
+27,"Route 112",1,1,0
+28,"Route 113",1,1,0
+29,"Route 114",1,1,0
+30,"Route 115",1,1,0
+31,"Route 116",1,1,0
+32,"Route 117",1,1,0
+33,"Route 118",1,1,0
+34,"Route 119",1,1,0
+35,"Route 120",1,1,0
+36,"Route 121",1,1,0
+37,"Route 122",1,1,0
+38,"Route 123",1,1,0
+39,"Route 124",1,1,0
+40,"Route 125",1,1,0
+41,"Route 126",1,1,0
+42,"Route 127",1,1,0
+43,"Route 128",1,1,0
+44,"Route 129",1,1,0
+45,"Route 130",1,1,0
+46,"Route 131",1,1,0
+47,"Route 132",1,1,0
+48,"Route 133",1,1,0
+49,"Route 134",1,1,0
+50,"Underwater (Route 124)",1,1,0
+51,"Underwater (Route 126)",1,1,0
+52,"Underwater (Route 127)",1,1,0
+53,"Underwater (Route 128)",1,1,0
+54,"Underwater (Sootopolis City)",1,1,0
+55,"Granite Cave",1,1,0
+56,"Mt. Chimney",1,1,0
+57,"Safari Zone (RSE)",1,1,0
+58,"Battle Tower (RS) / Battle Frontier (E)",1,1,0
+59,"Petalburg Woods",1,1,0
+60,"Rusturf Tunnel",1,1,0
+61,"Abandoned Ship",1,1,0
+62,"New Mauville",1,1,0
+63,"Meteor Falls",1,1,0
+65,"Mt. Pyre",1,1,0
+66,"Hideout",1,1,0
+67,"Shoal Cave",1,1,0
+68,"Seafloor Cavern",1,1,0
+69,"Underwater (Seafloor Cavern)",1,1,0
+70,"Victory Road (RSE)",1,1,0
+71,"Mirage Island",1,1,0
+72,"Cave of Origin",1,1,0
+73,"Southern Island",1,1,0
+74,"Fiery Path",1,1,0
+76,"Jagged Pass",1,1,0
+78,"Sealed Chamber",1,1,0
+79,"Underwater (Route 134)",1,1,0
+80,"Scorched Slab",1,1,0
+81,"Island Cave",1,1,0
+82,"Desert Ruins",1,1,0
+83,"Ancient Tomb",1,1,0
+84,"Inside of Truck",1,1,0
+85,"Sky Pillar",1,1,0
+86,"Secret Base",1,1,0
+87,"Ferry",1,1,0
+88,"Pallet Town",0,0,1
+89,"Viridian City",0,0,1
+90,"Pewter City",0,0,1
+91,"Cerulean City",0,0,1
+92,"Lavender Town",0,0,1
+93,"Vermilion City",0,0,1
+94,"Celadon City",0,0,1
+95,"Fuchsia City",0,0,1
+96,"Cinnabar Island",0,0,1
+97,"Indigo Plateau",0,0,1
+98,"Saffron City",0,0,1
+99,"Route 4 (Pokemon Center)",0,0,1
+100,"Route 10 (Pokemon Center)",0,0,1
+101,"Route 1",0,0,1
+102,"Route 2",0,0,1
+103,"Route 3",0,0,1
+104,"Route 4",0,0,1
+105,"Route 5",0,0,1
+106,"Route 6",0,0,1
+107,"Route 7",0,0,1
+108,"Route 8",0,0,1
+109,"Route 9",0,0,1
+110,"Route 10",0,0,1
+111,"Route 11",0,0,1
+112,"Route 12",0,0,1
+113,"Route 13",0,0,1
+114,"Route 14",0,0,1
+115,"Route 15",0,0,1
+116,"Route 16",0,0,1
+117,"Route 17",0,0,1
+118,"Route 18",0,0,1
+119,"Route 19",0,0,1
+120,"Route 20",0,0,1
+121,"Route 21",0,0,1
+122,"Route 22",0,0,1
+123,"Route 23",0,0,1
+124,"Route 24",0,0,1
+125,"Route 25",0,0,1
+126,"Viridian Forest",0,0,1
+127,"Mt. Moon",0,0,1
+128,"S.S. Anne",0,0,1
+129,"Underground Path (Routes 5-6)",0,0,1
+130,"Underground Path (Routes 7-8)",0,0,1
+131,"Diglett's Cave",0,0,1
+132,"Victory Road (Kanto)",0,0,1
+133,"Rocket Hideout",0,0,1
+134,"Silph Co.",0,0,1
+135,"Pokemon Mansion",0,0,1
+136,"Safari Zone (Kanto)",0,0,1
+137,"Pokemon League",0,0,1
+138,"Rock Tunnel",0,0,1
+139,"Seafoam Islands",0,0,1
+140,"Pokemon Tower",0,0,1
+141,"Cerulean Cave",0,0,1
+142,"Power Plant",0,0,1
+143,"One Island",0,0,1
+144,"Two Island",0,0,1
+145,"Three Island",0,0,1
+146,"Four Island",0,0,1
+147,"Five Island",0,0,1
+148,"Seven Island",0,0,1
+149,"Six Island",0,0,1
+150,"Kindle Road",0,0,1
+151,"Treasure Beach",0,0,1
+152,"Cape Brink",0,0,1
+153,"Bond Bridge",0,0,1
+154,"Three Isle Port",0,0,1
+155,"Sevii Isle 6",0,0,1
+156,"Sevii Isle 7",0,0,1
+157,"Sevii Isle 8",0,0,1
+158,"Sevii Isle 9",0,0,1
+159,"Resort Gorgeous",0,0,1
+160,"Water Labyrinth",0,0,1
+161,"Five Isle Meadow",0,0,1
+162,"Memorial Pillar",0,0,1
+163,"Outcast Island",0,0,1
+164,"Green Path",0,0,1
+165,"Water Path",0,0,1
+166,"Ruin Valley",0,0,1
+167,"Trainer Tower (exterior)",0,0,1
+168,"Canyon Entrance",0,0,1
+169,"Sevault Canyon",0,0,1
+170,"Tanoby Ruins",0,0,1
+171,"Sevii Isle 22",0,0,1
+172,"Sevii Isle 23",0,0,1
+173,"Sevii Isle 24",0,0,1
+174,"Navel Rock (FRLG)",0,0,1
+175,"Mt. Ember",0,0,1
+176,"Berry Forest",0,0,1
+177,"Icefall Cave",0,0,1
+178,"Rocket Warehouse",0,0,1
+179,"Trainer Tower",0,0,1
+180,"Dotted Hole",0,0,1
+181,"Lost Cave",0,0,1
+182,"Pattern Bush",0,0,1
+183,"Altering Cave (FRLG)",0,0,1
+184,"Tanoby Chambers",0,0,1
+185,"Three Isle Path",0,0,1
+186,"Tanoby Key",0,0,1
+187,"Birth Island (FRLG)",0,0,1
+188,"Monean Chamber",0,0,1
+189,"Liptoo Chamber",0,0,1
+190,"Weepth Chamber",0,0,1
+191,"Dilford Chamber",0,0,1
+192,"Scufib Chamber",0,0,1
+193,"Rixy Chamber",0,0,1
+194,"Viapois Chamber",0,0,1
+195,"Ember Spa",0,0,1
+196,"Celadon Dept. (FRLG) / Special Area (E)",0,0,1
+197,"Aqua Hideout",0,1,0
+198,"Magma Hideout",0,1,0
+199,"Mirage Tower",0,1,0
+200,"Birth Island (E)",0,1,0
+201,"Faraway Island",0,1,0
+202,"Artisan Cave",0,1,0
+203,"Marine Cave",0,1,0
+204,"Underwater (Marine Cave)",0,1,0
+205,"Terra Cave",0,1,0
+206,"Underwater (Route 105)",0,1,0
+207,"Underwater (Route 125)",0,1,0
+208,"Underwater (Route 129)",0,1,0
+209,"Desert Underpass",0,1,0
+210,"Altering Cave (E)",0,1,0
+211,"Navel Rock (E)",0,1,0
+212,"Trainer Hill",0,1,0
+253,"(gift egg)",1,1,1
+254,"(in-game trade)",1,1,1
+255,"(fateful encounter)",1,1,1

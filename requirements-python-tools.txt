@@ -1,0 +1,9 @@
+# Optional Python dependencies used by repository tools and analysis scripts.
+# Install with: python -m pip install -r requirements-python-tools.txt
+# The in-tree mGBA Python bindings are built from this repository; they are not a PyPI dependency.
+Flask
+matplotlib
+numpy
+Pillow
+psutil
+zstandard

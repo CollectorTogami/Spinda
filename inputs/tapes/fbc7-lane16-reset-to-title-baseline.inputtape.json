@@ -1,0 +1,45 @@
+{
+  "format": "mgba-input-tape-v1",
+  "frame_count": "1472",
+  "button_bits": {
+    "A": 0,
+    "B": 1,
+    "SELECT": 2,
+    "START": 3,
+    "RIGHT": 4,
+    "LEFT": 5,
+    "UP": 6,
+    "DOWN": 7,
+    "R": 8,
+    "L": 9
+  },
+  "metadata": {
+    "created_by": "python-input-tape",
+    "format_note": "Anchor-agnostic tape: no ROM, save, or savestate path is stored.",
+    "workflow": "firsthalf-seed-bruteforce",
+    "route_segment": "reset-to-title-baseline",
+    "script": "Seed-Bruteforcer.py"
+  },
+  "start_probe": {
+    "frame_counter": 183,
+    "platform": 0,
+    "keyinput": "0x000003FF",
+    "held_from_keyinput": "0x00000000"
+  },
+  "end_probe": {
+    "frame_counter": 1655,
+    "platform": 0,
+    "keyinput": "0x000003FF",
+    "held_from_keyinput": "0x00000000"
+  },
+  "runs": [
+    {
+      "mask": "0x00000003",
+      "buttons": [
+        "A",
+        "B"
+      ],
+      "frames": 1472
+    }
+  ]
+}

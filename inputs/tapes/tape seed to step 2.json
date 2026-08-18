@@ -1,0 +1,1484 @@
+{
+    "button_bits": {
+        "A": 0,
+        "B": 1,
+        "DOWN": 7,
+        "L": 9,
+        "LEFT": 5,
+        "R": 8,
+        "RIGHT": 4,
+        "SELECT": 2,
+        "START": 3,
+        "UP": 6
+    },
+    "end_probe": {
+        "frame_counter": "6667",
+        "pending_keys": "0X00000000"
+    },
+    "format": "mgba-input-tape-v1",
+    "frame_count": "625",
+    "metadata": {
+        "created_at_utc": "2026-04-25T08:48:03Z",
+        "created_by": "native-qt-input-tape-view",
+        "format_note": "Anchor-agnostic tape: no ROM, save, or savestate path is stored."
+    },
+    "runs": [
+        {
+            "buttons": [
+                "NONE"
+            ],
+            "frames": 63,
+            "mask": "0X00000000"
+        },
+        {
+            "buttons": [
+                "A"
+            ],
+            "frames": 38,
+            "mask": "0X00000001"
+        },
+        {
+            "buttons": [
+                "NONE"
+            ],
+            "frames": 61,
+            "mask": "0X00000000"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 75,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 6,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 8,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 8,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 5,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 6,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 5,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 7,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 6,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 3,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 4,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 9,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 1,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "B"
+            ],
+            "frames": 2,
+            "mask": "0X00000002"
+        },
+        {
+            "buttons": [
+                "A",
+                "B"
+            ],
+            "frames": 6,
+            "mask": "0X00000003"
+        },
+        {
+            "buttons": [
+                "NONE"
+            ],
+            "frames": 15,
+            "mask": "0X00000000"
+        }
+    ],
+    "start_probe": {
+        "frame_counter": "6042",
+        "pending_keys": "0X00000000"
+    }
+}

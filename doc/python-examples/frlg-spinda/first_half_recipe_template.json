@@ -1,0 +1,43 @@
+{
+  "rom_path": "lg.gba",
+  "base_save_path": "provided-base.sav",
+  "base_state_path": "before-egg-check.state",
+  "workspace_root": ".\\workspace",
+  "target_lower_half": "0x1234",
+  "create_lane_work_state": true,
+  "notes": "Replace the placeholder inputs and PRNG checkpoints with the real route once the canonical save and state are chosen. Conservative planning anchor: expect about 375 frames from seed generation to the first half of the egg PID, but use PRNG checkpoints for correctness because Four Island NPCs can add slight noise.",
+  "pre_generation_route": [
+    {
+      "label": "Take the final step that causes the daycare egg check",
+      "keys": [
+        "UP"
+      ],
+      "frames": 1
+    }
+  ],
+  "post_generation_route": [
+    {
+      "label": "Example noisy segment: stop when the daycare-man walk reaches the expected PRNG state",
+      "keys": [
+        "DOWN"
+      ],
+      "wait_for_rng": "0x12345678",
+      "max_frames": 240,
+      "expected_rng_after": "0x12345678"
+    }
+  ],
+  "save_sequence": [
+    {
+      "label": "Open the pause menu",
+      "keys": [
+        "START"
+      ],
+      "frames": 1
+    },
+    {
+      "label": "Placeholder: choose SAVE and confirm it",
+      "keys": [],
+      "frames": 120
+    }
+  ]
+}

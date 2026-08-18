@@ -1,0 +1,11 @@
+LZMA SDK Notice
+===============
+
+The bundled LZMA SDK C source files are marked public domain by Igor Pavlov.
+
+Example source notice from `src/third-party/lzma/7zTypes.h`:
+
+2018-08-04 : Igor Pavlov : Public domain
+
+Keep this notice with source or binary distributions that include the bundled
+LZMA SDK files.
